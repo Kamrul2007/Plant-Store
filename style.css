@@ -1,0 +1,129 @@
+
+/* Body */
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Navbar */
+
+.navbar-brand {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.nav-link {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+/* Hero Section */
+
+h1 {
+  font-weight: 700;
+}
+
+section p {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Feature Box */
+
+.feature-box {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid #e5e5e5;
+}
+
+.feature-box i {
+  font-size: 40px;
+  color: green;
+  margin-bottom: 15px;
+}
+
+.feature-box h4,
+.feature-box h5 {
+  font-weight: 600;
+}
+
+.feature-box p {
+  font-size: 15px;
+}
+
+/* Cards */
+
+.card {
+  border-radius: 10px;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+.card h5 {
+  font-weight: 600;
+}
+
+.card p {
+  font-size: 16px;
+}
+
+/* Buttons */
+
+.btn {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* About Page */
+
+h2,
+h3 {
+  font-weight: 600;
+}
+
+/* Contact Page */
+
+.form-label {
+  font-weight: 500;
+}
+
+.form-control {
+  font-size: 15px;
+}
+
+textarea {
+  resize: none;
+}
+
+/* Contact Icons */
+
+.fa-location-dot,
+.fa-phone,
+.fa-envelope,
+.fa-clock {
+  color: green;
+  margin-right: 8px;
+}
+
+/* Statistics */
+
+.text-success {
+  font-weight: 700;
+}
+
+/* Footer */
+
+footer h4 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+footer p {
+  font-size: 15px;
+  margin-bottom: 5px;
+}
